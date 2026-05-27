@@ -1,8 +1,8 @@
 # Actividad Práctica — Instalación de n8n y Primer "Hola Mundo"
 
 ## Integrantes
-- Nombre del estudiante: `____________________________`
-- Curso/Sección: `____________________________`
+- Nombre del estudiante: Camilo Andres Garcia Almeida
+- Curso/Sección: Z1
 - Fecha: `27/05/2026`
 
 ## Método de instalación utilizado
